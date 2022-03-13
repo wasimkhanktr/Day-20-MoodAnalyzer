@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace MoodAnalyzer
 {
-    internal class program
+    public class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }
